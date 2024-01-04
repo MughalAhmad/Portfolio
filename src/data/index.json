@@ -1,0 +1,59 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "As a frontend developer with a passion for creating visually stunning and seamlessly functional user interfaces, I thrive on the ever-evolving landscape of web technologies."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "A seasoned backend developer passionate about crafting efficient server-side logic and managing databases. My dedication ensures the seamless functioning of applications behind the scenes."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "A Webflow developer who transforms creative visions into interactive and pixel-perfect web experiences. With a unique blend of design sensibility and technical expertise."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/proj1.png",
+      "title": "TECHWELT",
+      "description": "Translated Figma design into React.js code for a user-friendly interface. Implemented features allowing administrators to add users and vehicles seamlessly. Developed functionality to track and maintain records of vehicles efficiently.",
+      "text": "View In Github",
+      "link":"https://github.com/MughalAhmad/TECHWALT"
+
+    },
+    {
+      "id": "2",
+      "src": "./img/proj2.png",
+      "title": "MHR",
+      "description": "Designed and implemented a user-friendly frontend interface for admin to track guards' activities. Created a scheduling component allowing administrators to efficiently manage and assign guards' jobs. Frontend experience for admins interacting with the tracking and scheduling features.",
+      "text": "View In Github",
+      "link":"https://github.com/MughalAhmad/MHR"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Transforming Figma designs into a seamless React.js interface, Ahmad excelled in creating a user-friendly experience.",
+      "author_name": "Dianne Russel",
+      "author_designation": "TECHWELT"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "They designed and implemented an incredibly user-friendly frontend interface that elevated our ability to track guards' activities.",
+      "author_name": "Kristin Watson",
+      "author_designation": "MHR"
+    }
+  ]
+}
